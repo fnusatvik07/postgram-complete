@@ -1,0 +1,4 @@
+Third book this month. Call it character development.
+
+author: ada
+image_url: https://loremflickr.com/800/800/books?lock=12

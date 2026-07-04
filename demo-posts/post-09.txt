@@ -1,0 +1,4 @@
+New desk setup is finally done.
+
+author: satvik
+image_url: https://loremflickr.com/800/800/workspace?lock=9

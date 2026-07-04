@@ -1,0 +1,4 @@
+Best meal of the trip cost two dollars.
+
+author: kai
+image_url: https://loremflickr.com/800/800/tacos?lock=21

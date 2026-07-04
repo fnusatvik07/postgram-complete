@@ -1,0 +1,4 @@
+Trail ride before the standup.
+
+author: leo
+image_url: https://loremflickr.com/800/800/bicycle?lock=11

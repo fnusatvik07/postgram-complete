@@ -1,0 +1,4 @@
+First coffee of the day hits different.
+
+author: ada
+image_url: https://loremflickr.com/800/800/coffee?lock=1
