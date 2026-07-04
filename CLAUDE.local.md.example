@@ -1,0 +1,5 @@
+# Personal, copy to CLAUDE.local.md (already gitignored). Not shared with the team.
+- My backend runs on port 8001 (8000 is taken by another service on my machine).
+- Seed the DB with `python -m app.seed --demo` before I start.
+- Test login: demo@postgram.dev / password "workshop".
+- Explain your plan before large refactors, I like to review first.

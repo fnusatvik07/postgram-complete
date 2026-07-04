@@ -1,0 +1,22 @@
+# Secrets & personal overrides
+.env
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+dist/
+*.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

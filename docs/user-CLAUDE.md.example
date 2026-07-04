@@ -1,0 +1,27 @@
+# Example user CLAUDE.md  (user scope)
+
+This is an example of a personal, cross-project instruction file. It does NOT belong in this repo.
+It lives in your home folder and applies to every project you open with Claude Code.
+
+Install it:
+
+    cp docs/user-CLAUDE.md.example  ~/.claude/CLAUDE.md
+
+Everything below the line is the file content. These are personal preferences (your taste and your
+tools), not project rules, so they belong at user scope, not in a project CLAUDE.md.
+
+----------------------------------------------------------------------
+
+# My preferences (all projects)
+
+## Style
+- Keep answers concise. Show the diff, not a lecture.
+- Explain your plan before a large or multi-file refactor. I want to review first.
+
+## Tools
+- Use `rg` (ripgrep) instead of `grep`, and `fd` instead of `find`.
+- Prefer `python -m venv` for Python environments.
+
+## Habits
+- After you finish a task, run the project's tests and report pass or fail.
+- When you fix the same kind of bug twice, tell me so I can add it to the project's CLAUDE.md.
